@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_kiev.mk
+    $(LOCAL_DIR)/flare_kiev.mk
